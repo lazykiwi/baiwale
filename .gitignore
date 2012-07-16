@@ -1,1 +1,6 @@
+assets/
+protected/runtime/
+themes/classic/views/
 *.DS_Store
+hook.php
+protected/config/main.php
