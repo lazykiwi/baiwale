@@ -56,7 +56,7 @@ return array(
 			'connectionString' => 'mysql:host=localhost;dbname=baiwale',
 			'emulatePrepare' => true,
 			'username' => 'root',
-			'password' => 'good123',
+			'password' => 'Shouke*liutie',
 			'charset' => 'utf8',
 		),
 		'errorHandler'=>array(
